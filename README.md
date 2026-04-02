@@ -1,39 +1,52 @@
-# Netflix Power BI Dashboard
+#  Netflix Power BI Dashboard
 
 ##  Project Overview
+An interactive Power BI dashboard built to analyse Netflix 
+content trends using a real-world dataset from Kaggle. 
+This project demonstrates skills in data cleaning, 
+DAX calculations, and business intelligence storytelling.
 
-This project presents an interactive Power BI dashboard analyzing Netflix content using real-world dataset.
+##  Dashboard Preview
+### Page 1 — Overview
+![Page 1](Netflix_dashboard_page-0001.jpg)
 
-##  Key Insights
+### Page 2 — Deep Dive
+![Page 2](Netflix_dashboard_page-0002.jpg)
 
-* Total Titles, Movies, and TV Shows
-* Content distribution by country
-* Top genres on Netflix
-* Movies vs TV Shows comparison
-* Yearly content trend analysis
-* Monthly content addition trends
-* Duration distribution analysis
+##  Key Insights Covered
+- Total Titles: 8,809 | Movies: 6,131 | TV Shows: 2,676
+- Content spread across 88 countries
+- Top genres: Dramas (1600), Comedies (1210), Action & Adventure (859)
+- Content peaked in 2019–2020
+- Most content added in July (827 titles)
+- Top director: Rajiv Chilaka (19 titles)
 
-## Dashboard Features
+##  Dashboard Features
+- KPI cards for quick business insights
+- Interactive slicers (Type, Country, Year)
+- Visualisations: Bar chart, Line chart, Donut chart, 
+  Map, Histogram
+- Two-page layout: Overview + Deep Dive Analysis
 
-* Interactive slicers (Type, Country, Year)
-* KPI cards for quick insights
-* Advanced visualizations (Line, Bar, Map, Donut charts)
+##  Tools & Technologies
+| Tool | Purpose |
+|------|---------|
+| Power BI Desktop | Dashboard building |
+| Power Query | Data cleaning & transformation |
+| DAX | Calculated columns & measures |
+| GitHub | Version control & portfolio |
 
-## Tools Used
-
-* Power BI
-* DAX
-* Data Cleaning (Power Query)
-
+## Dataset
+- **Source:** [Netflix Movies and TV Shows — Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- **Records:** 8,809 titles
 
 ## Key Learnings
+- Data transformation using Power Query
+- Creating calculated columns and measures using DAX
+- Building multi-page interactive dashboards
+- Data visualisation and storytelling best practices
 
-* Data transformation using Power Query
-* Creating calculated columns using DAX
-* Building interactive dashboards
-* Data visualization best practices
-
-##  Author
-
-Rinku Ghosh
+## Author
+**Rinku Ghosh**  
+[LinkedIn](https://www.linkedin.com/in/k-rinku-ghosh3112/) 
+| [GitHub](https://github.com/krinkughosh3112-wq)
